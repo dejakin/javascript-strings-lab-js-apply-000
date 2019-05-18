@@ -1,2 +1,2 @@
-let name = "Deji";
+var name = "Deji";
 
